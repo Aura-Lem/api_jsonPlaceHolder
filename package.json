@@ -1,0 +1,12 @@
+{
+  "name": "api-jsonplaceholder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "newman run postmanJsonPlaceHolder.json -e jsonPlaceHolder-env.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,15 @@
+{
+	"id": "5769182c-5f76-4608-8eae-84ce3365c3c4",
+	"name": "jsonPlaceHolder-env",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "https://jsonplaceholder.typicode.com",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-07-15T11:10:28.252Z",
+	"_postman_exported_using": "Postman/11.54.1"
+}
